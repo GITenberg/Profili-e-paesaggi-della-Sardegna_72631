@@ -1,0 +1,37 @@
+_repo: Profili-e-paesaggi-della-Sardegna_72631
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mantegazza, Paolo
+    aliases:
+    - Mantegazza, Paul
+    - Mantegazza, Pablo
+    - Mantegazzo, Pavel
+    birthdate: 1831
+    deathdate: 1910
+    gutenberg_agent_id: '8940'
+    url: http://www.gutenberg.org/2009/agents/8940
+    wikipedia:
+    - http://it.wikipedia.org/wiki/Paolo_Mantegazza
+    - https://en.wikipedia.org/wiki/Paolo_Mantegazza
+description: ''
+gutenberg_issued: '2024-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72631'
+language: it
+pgterms:marc904: https://www.digitale-sammlungen.de/en/view/bsb11008542
+pgterms:marc905: 20230104044748mantegazza
+pgterms:marc906: '1869'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This transcription was produced from images generously made available by Bayerische
+  Staatsbibliothek / Bavarian State Library.)
+publication_note: '  $aMilano :$bBrigola, $c1869.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Profili e paesaggi della Sardegna
+url: http://www.gutenberg.org/ebooks/72631
