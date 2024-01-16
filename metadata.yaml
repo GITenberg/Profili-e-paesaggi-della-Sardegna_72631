@@ -1,5 +1,8 @@
 _repo: Profili-e-paesaggi-della-Sardegna_72631
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72631-h/images/cover.jpg
 creator:
   author:
     agent_name: Mantegazza, Paolo
@@ -15,6 +18,8 @@ creator:
     - http://it.wikipedia.org/wiki/Paolo_Mantegazza
     - https://en.wikipedia.org/wiki/Paolo_Mantegazza
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72631#Profili-e-paesaggi-della-Sardegna
 gutenberg_issued: '2024-01-05'
 gutenberg_type: Text
 identifiers:
